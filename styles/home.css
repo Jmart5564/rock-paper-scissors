@@ -1,1 +1,42 @@
 /* add css for index.html */
+
+#game-options {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#rock-button {
+    background-color: rgb(168, 46, 152);
+}
+
+#scissors-button {
+    background-color: rgb(196, 173, 44);
+}
+
+#paper-button {
+    background-color: rgb(58, 134, 179);
+}
+
+#rock-button:hover {
+    background-color: black;
+}
+
+#scissors-button:hover {
+    background-color: black;
+}
+
+#paper-button:hover {
+    background-color: black;
+}
+
+#scoreboard {
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    background: -webkit-linear-gradient( rgb(161, 38, 172), rgb(64, 162, 241), rgb(250, 246, 15));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
