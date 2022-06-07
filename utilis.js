@@ -4,8 +4,9 @@ export function getRandomItem(array) {
     return item;
 }
 
-export function score(guess, spot) {
+export function score(thrown, computer) {
     // *** Implement score function ***
     // See test/tests.js for tests you need to 
     // make pass!
+    if ()
 }
