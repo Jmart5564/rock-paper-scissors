@@ -2,11 +2,31 @@
 
 #game-options {
     display: flex;
-    gap: 10px;
+    gap: 20px;
 }
-#scoreboard {
-    display: flexbox;
-    align-items: center;
+
+#rock-button {
+    background-color: rgb(168, 46, 152);
+}
+
+#scissors-button {
+    background-color: rgb(196, 173, 44);
+}
+
+#paper-button {
+    background-color: rgb(58, 134, 179);
+}
+
+#rock-button:hover {
+    background-color: black;
+}
+
+#scissors-button:hover {
+    background-color: black;
+}
+
+#paper-button:hover {
+    background-color: black;
 }
 
 
