@@ -1,5 +1,5 @@
 // import needed modules
-
+import { getRandomItem, score } from './utils.js';
 // state
 
 // components
