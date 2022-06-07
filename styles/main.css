@@ -13,11 +13,9 @@ body {
 }
 
 header {
-    position: sticky;
     top: 0;
-    display: flex;
-    align-items: center;
-    background-color: var(--header-background);
+    background-color: rgb(43, 41, 41);
+    padding-left: 20px;
 }
 
 main {
