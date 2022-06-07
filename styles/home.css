@@ -1,2 +1,6 @@
 /* add css for index.html */
 
+#game-options {
+    display: flex;
+}
+
