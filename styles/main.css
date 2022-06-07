@@ -14,8 +14,13 @@ body {
 
 header {
     top: 0;
+    text-align: center;
+    font-size: x-large;
     background-color: rgb(43, 41, 41);
     padding-left: 20px;
+    background: -webkit-linear-gradient(90deg, rgb(161, 38, 172), rgb(57, 157, 240), rgb(240, 199, 16));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 main {

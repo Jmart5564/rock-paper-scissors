@@ -30,8 +30,12 @@
 }
 
 #scoreboard {
-    padding-left: 400px;
+    text-align: center;
+    font-size: larger;
     font-weight: 700;
+    background: -webkit-linear-gradient( rgb(161, 38, 172), rgb(64, 162, 241), rgb(250, 246, 15));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 
