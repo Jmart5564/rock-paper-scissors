@@ -14,11 +14,46 @@
 
 <body>
     <header>
-        <img src="assets/html_css_js.png">
-        <h1>Web UI Project</h1>
+        <h1>Can You Beat Me at Rock, Paper,<br> Scissors?</h1>
+        <h2>Click an Option Below to Play:</h2>
     </header>
 
     <main>
+        
+
+
+        <section id="game-options">
+            <button id="rock-button">
+                <img src="rock.png">
+            </button>
+            <button id="paper-button">
+                <img src="paper.png">
+            </button>
+            <button id="scissors-button">
+                <img src="scissors.png">
+            </button>
+            
+        </section>
+
+
+
+        <section id="scoreboard">
+            <h2>Your Scores:</h2>
+            <ul class="scores">
+                <li>
+                    Wins: <span id="wins-display">0</span>
+                </li>
+                <li>
+                    Losses: <span id="losses-display">0</span>
+                </li>
+                <li>
+                    Draws: <span id="draws-display">0</span>
+                </li>
+                <li>
+                    Total Games: <span id="total-display">0</span>
+                </li>
+            </ul>
+        </section>
 
     </main>
 

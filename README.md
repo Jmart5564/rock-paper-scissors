@@ -1,3 +1,10 @@
+# Planning
+
+
+! ['Wireframe'] (My First Board.jpg)
+
+
+
 ## The Golden Rule:
 
 🦸 🦸‍♂️ `Stop starting and start finishing.` 🏁
